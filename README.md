@@ -1,6 +1,6 @@
 # ARIMA
 
-Creating Time Series Models with ARIMA
+Creating Time Series Models with ARIMA to predict SPY and GOOGLE log returns
 
 References - 
 https://www.kaggle.com/code/prashant111/arima-model-for-time-series-forecasting
